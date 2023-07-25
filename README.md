@@ -1,6 +1,6 @@
 # FilterTrick1
 *😁 This is my Trick1 with Filter*
-- [Demo Project](https://github.com/masoomi1396/FilterTrick1)
+- [Demo Project](https://masoomi1396.github.io/FilterTrick1/)
 - Developed by Amirmohammad Masoumi
 - Created - 2023-07-18
 - 🤖 Technologies Used - Html , Css
